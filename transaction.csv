@@ -1,4 +1,4 @@
-isbn,membership_id,lib_card_no,copy _no,status,issue_date,due_date,return_date,fine
+isbn,membership_id,lib_card_no,copy_no,status,issue_date,due_date,return_date,fine
 978-0-306-40615-7,m_11112,2,12,issued,15-09-2023,30-09-2023,00-00-0000,0
 978-3-16-148410-0,m_11111,-1,-1,booked,00-00-0000,00-00-0000,00-00-0000,0
 978-1-56619-909-4,m_11113,1,9,returned,11-10-2023,26-10-2023,26-10-2023,0
